@@ -1,4 +1,4 @@
 # New project
 
 this project was created from local system.
-Created by inzi haq 
+Created by inzi haq.
